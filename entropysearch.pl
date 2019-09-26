@@ -6,7 +6,7 @@
 ## CPanel's entropysearch.cgi allows enumeration 
 ## of users
 ## ******************************************
-## Author - Isonyx
+## Author - Haquor
 
 use warnings;
 use strict;
